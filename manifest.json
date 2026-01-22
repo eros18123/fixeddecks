@@ -1,0 +1,13 @@
+{
+    "name": "Fixed",
+    "package": "fixed",
+    "author": "Eros",
+    "version": "1.0.0",
+    "description": "Um add-on para o Anki que muda a tela inicial.",
+    "ankiweb_id": null,
+    "conflicts": [],
+    "dependencies": [],
+    "homepage": "https://github.com/eros18123/fixeddecks",
+    "min_anki_version": "2.1.0",
+    "max_anki_version": null
+}
